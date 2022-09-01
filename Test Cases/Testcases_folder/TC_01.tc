@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>record web</description>
+   <name>TC_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43358e22-a1d0-499c-a936-fa18873c301b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f3a0f51d-af71-4c03-8185-f53336832ce9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f3a0f51d-af71-4c03-8185-f53336832ce9</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
